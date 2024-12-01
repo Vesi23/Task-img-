@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    margin: 0;
+    font-family: Cambria, serif;
+    font-size: 14px;
+    color: #555;
+    line-height: 24px;
+    position: relative;
+}
+
+.screenshot {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 200;
+    opacity: .5;
+    background: url(../HW+Layout+PSD/StartUp%20Layout.jpg) center top;
+}
+
+.container {
+    width: 1140px;
+    margin: auto;
+}
