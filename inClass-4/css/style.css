@@ -20,4 +20,25 @@ body {
     text-align: center;
 }
 
+header {
+    height: 770px;
+    background: url(../images/top-bg.png) no-repeat #6c1d14;
+    background-size: cover;
+    color: #fff;
+    padding-top: 37px;
+}
 
+header h1{
+    font-family: sans-serif;
+    text-transform: uppercase;
+    padding-top: 233px;
+    font-size: 3rem;
+    margin-bottom: 31px;
+}
+
+header h2 {
+    font-size: 20px;
+    font-family: Cambria, serif;
+    margin: 0 0 65px;
+    text-transform: none;
+}
